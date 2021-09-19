@@ -43,7 +43,24 @@ body{font-family:
      bottom: 450px; 
 }
  
-   
-    
-    
- 
+.button-black {
+    padding: 6px 20px;
+    display: inline-block;
+    vertical-align: baseline;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background-color: #373737;
+    color: #ffffff;
+  }
+
+  .button {
+    padding: 6px 20px;
+    display: inline-block;
+    vertical-align: baseline;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: #373737;
+  }
