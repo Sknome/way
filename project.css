@@ -1,0 +1,49 @@
+body{font-family: 
+    "Montserrat";}
+.Iphon13{
+    color: rgba(180, 180, 180, 1);
+    font-size: 64px;
+    font-family: "Montserrat";
+    margin-left: 150px;
+    margin-top: 150px;
+    display: inline-block;
+    text-transform: uppercase;
+}
+.Samsung{
+    color: rgba(212, 154, 154, 1);
+    font-size: 64px;
+    margin-top: .5px
+    ;
+
+}
+.button1{
+    font-size: 15px;
+    color: white;
+    background-color: rgba(83, 83, 83, 1);
+    border-bottom: rgba(83, 83, 83, 1);
+}
+
+ .цена_на_айф{ 
+     color: rgba(83, 83, 83, 1);
+     text-decoration: none ;
+     position: relative;
+     left: 250px;
+     bottom: 100px;
+    
+ }
+ .img1{
+    position: relative;
+    left: 250px;
+     bottom: 100px;
+     
+ }
+.img2{
+    position: relative;
+    left: 550px;
+     bottom: 450px; 
+}
+ 
+   
+    
+    
+ 
