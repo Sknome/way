@@ -1,0 +1,29 @@
+html,
+
+body {
+    margin: 0;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+  }
+.button-black {
+    padding: 6px 20px;
+    display: inline-block;
+    vertical-align: baseline;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background-color: #373737;
+    color: #ffffff;
+  }
+
+  .button {
+    padding: 6px 20px;
+    display: inline-block;
+    vertical-align: baseline;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 4px;
+    background-color: #ffffff;
+    color: #373737;
+  }
