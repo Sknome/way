@@ -1,0 +1,35 @@
+.first-section-container{
+    padding-top: 270px ;
+    padding-bottom: 110px;
+    outline: 1px solid red;
+}
+.header{
+    padding-top: 30px;
+    padding-bottom: 60px;
+    outline: 1px solid blue;
+}
+.logo-header-img{
+    width: 250px;
+    margin-top: 0px;
+    float: left;
+    margin-left: 50px;
+    display: block;
+}
+
+.nav{
+    border: 1px solid red;
+    line-height: 2;
+    margin-left: 300px;
+    margin-right: 600px;
+}
+.nav-item{  
+    display: inline; 
+    margin-right: 50px;  
+    position: static;}
+.nav-home{
+   background-color: red;
+    border-top: 30px solid red;
+   border-bottom: 50px solid red;
+   border-left: 25px solid red;
+   border-right: 25px solid red;
+}
